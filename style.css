@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: cursive;
+    src: url(fonts/cursive.ttf);
+  }
+body{
+    background-color: #fff;
+}
+.mainFrame{
+    padding: 20px 5px 10px 5px ;
+
+}
+
+.cardPadding{
+    padding: 10px 20px 40px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+
+.imgBorder{
+    border: 20px solid rgb(223, 221, 221);
+}
+.subimgtext{
+    text-align: center !important;
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.subimgtext1{
+    text-align: center !important;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: -12px;
+}
+.padding-10{
+        padding: 5px 15px 0px 15px;
+}
+
+
+.headers{
+    margin-top: 20px;
+    font-weight: bold;
+    
+}
+
+.headers > p{
+    line-height: 10px;
+}
+
+.divider{
+    border: 3px solid #9e9e9e;
+}
+.title{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+.subtitle{
+   
+    text-align: left;
+    
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: underline;
+}
+.zeroPadding{
+    padding: 0px !important;
+}
+.zeroMargin{
+    margin: 0px !important;
+}
+.margintoponly{
+    margin-top:15px ;
+}
+
+.menuitem{
+    font-weight: bold;
+    font-size: 20px;
+}
+.menudescription{
+    font-size: 13px;   
+}
+
+.col-lg-2{
+    max-width: 10% !important ;
+}
